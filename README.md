@@ -1,4 +1,4 @@
-# SEC 10-K RAG — cited answers from Big Tech annual reports
+# SEC 10-K RAG: answers with sources from Big Tech annual reports
 
 A hand-built retrieval-augmented generation (RAG) system over the 10-K filings of
 **Apple, Microsoft, NVIDIA, Alphabet and Amazon** (3 fiscal years each, 15 filings).
