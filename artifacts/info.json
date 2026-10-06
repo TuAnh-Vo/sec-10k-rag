@@ -1,0 +1,6 @@
+{
+  "n_chunks": 5089,
+  "dim": 768,
+  "embedding_model": "BAAI/bge-base-en-v1.5",
+  "normalized": true
+}

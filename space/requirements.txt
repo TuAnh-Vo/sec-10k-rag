@@ -1,0 +1,9 @@
+# Packages for the Hugging Face Space (the demo only).
+# Gradio itself is NOT listed: the Space installs the version in README.md (sdk_version).
+torch==2.9.1                 # ZeroGPU supports torch 2.8.0 and newer
+transformers>=5.0,<6
+accelerate
+sentence-transformers>=5.0
+faiss-cpu==1.15.1
+numpy
+spaces

@@ -1,0 +1,42 @@
+[
+  {
+    "gold": "AAPL_2024__0148",
+    "q": "How large was the buyback authorization Apple's board approved in spring 2024, how much had been drawn down by fiscal year end, and what became of the remaining capacity under the prior year's program?"
+  },
+  {
+    "gold": "AAPL_2025__0121",
+    "q": "What additional safeguards and breach-notification duties attach to records about children, and to categories such as medical, fingerprint, and card-payment information?"
+  },
+  {
+    "gold": "AMZN_2023__0312",
+    "q": "Which firm sued in a federal court in western Texas in 2020 over patents covering on-demand video delivery and programme-guide navigation, and what damages range did it put forward two years later?"
+  },
+  {
+    "gold": "AMZN_2024__0313",
+    "q": "Which state's attorney general filed a 2024 case in a county superior court over pricing conduct and the highlighted buy-box listing?"
+  },
+  {
+    "gold": "GOOGL_2024__0054",
+    "q": "What purpose-built silicon does Alphabet make for machine-learning workloads, and how have engineering gains changed the serving cost and response time of AI-generated search summaries?"
+  },
+  {
+    "gold": "GOOGL_2023__0365",
+    "q": "At the close of 2023, what was the average remaining term and average discount rate on rental agreements, and how much in future payments related to arrangements that had not yet begun?"
+  },
+  {
+    "gold": "MSFT_2024__0229",
+    "q": "Roughly how many daily security signals and managed endpoints feed the company's machine-learning defences, and how many distinct adversary groups does it follow?"
+  },
+  {
+    "gold": "MSFT_2026__0349",
+    "q": "Which overseas operating hub taxed below the domestic rate generated the large majority of foreign earnings, and what effective tax rate resulted?"
+  },
+  {
+    "gold": "NVDA_2024__0232",
+    "q": "Where is NVIDIA's corporate base, roughly how much building space is held there, and which countries abroad host the main engineering and sales sites?"
+  },
+  {
+    "gold": "NVDA_2026__0302",
+    "q": "Which outside audit firm attested that financial reporting controls were working as of the January 2026 year end, and what staged replacement of core financial systems is underway?"
+  }
+]

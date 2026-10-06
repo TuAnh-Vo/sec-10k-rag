@@ -1,0 +1,24 @@
+# downloaded / regenerable data
+edgar_cache/
+corpus/
+faiss_index_sec/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# secrets and local settings — never commit tokens
+.env
+*.token
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# Gradio
+.gradio/
+flagged/

@@ -1,0 +1,23 @@
+# Everything needed to rebuild the index, reproduce the results and run the demo locally.
+# (The Hugging Face Space uses the shorter list in space/requirements.txt.)
+
+# data + chunking — pinned, because they decide where chunk boundaries fall
+requests
+beautifulsoup4
+langchain-text-splitters==1.1.2
+
+# retrieval
+numpy
+faiss-cpu==1.15.1
+sentence-transformers>=5.0
+
+# generation
+torch>=2.8
+transformers>=5.0,<6
+accelerate
+bitsandbytes            # only for 4-bit loading on a 16 GB GPU (notebook setting)
+
+# demo + deployment
+gradio>=6.0
+spaces                  # ZeroGPU decorator; does nothing outside Hugging Face
+huggingface_hub
