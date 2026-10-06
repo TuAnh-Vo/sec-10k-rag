@@ -5,7 +5,7 @@ A hand-built retrieval-augmented generation (RAG) system over the 10-K filings o
 Ask a question; get a 2–4 sentence answer where **every fact cites a numbered excerpt**
 from the filings — or an explicit refusal when the excerpts don't contain the answer.
 
-**[▶ Try the live demo](https://huggingface.co/spaces/modelling-giant/sec-10k-rag)** ·
+**[▶ Try the live demo](https://huggingface.co/spaces/modelling-giants/sec-10k-rag)** ·
 [Notebook with all outputs](notebooks/RAG-system-project.ipynb) ·
 [Results CSV](results/results_validation.csv)
 
